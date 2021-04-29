@@ -1,1 +1,1 @@
-# springboot - soulmate - restservice
+# soulmate-mongodb-lombok
