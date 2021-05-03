@@ -10,12 +10,5 @@ public interface UserService {
     public List<SoulmateUser> getAllUsers();
     public SoulmateUser updateUser(Integer id, SoulmateUser user);
     public void deleteUser(int id);
-//    public List<SoulmateUser> getAllUsersbyGender(String gender);
-//    public List<SoulmateUser> getAllUsersbyAge(int age);
-//    public List<SoulmateUser> getAllUsersbyName(String name);
-
-
-
-
 
 }

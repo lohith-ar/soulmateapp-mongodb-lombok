@@ -41,21 +41,4 @@ public class UserServiceImpl implements UserService{
         userrepo.deleteById(id);
     }
 
-//    @Override
-//    public List<SoulmateUser> getAllUsersbyGender(String gender) {
-//
-//        return userrepo.getUsersByGender(gender);
-//    }
-//
-//    @Override
-//    public List<SoulmateUser> getAllUsersbyAge(int age) {
-//        return userrepo.getUsersByAge(age);
-//    }
-//
-//    @Override
-//    public List<SoulmateUser> getAllUsersbyName(String name) {
-//        return userrepo.getUsersByName(name);
-//    }
-//
-
 }
